@@ -41,25 +41,25 @@ export class CareerSelector extends LitElement {
         name: 'Ingeniería de Software',
         faculty: 'Facultad de Informática',
         description: 'Formación en desarrollo de aplicaciones y metodologías ágiles.',
-        image: 'https://via.placeholder.com/300x150?text=Software'
+        image: 'https://starkcloud.com/wp-content/uploads/2024/12/La-tecnologia-del-futuro-5-avances-que-cambiaran-el-mundo-2000x1200-1-1536x922.jpg'
       },
       {
         name: 'Ingeniería Mecatrónica',
         faculty: 'Facultad de Mecánica',
         description: 'Integración de mecánica, electrónica y control.',
-        image: 'https://via.placeholder.com/300x150?text=Mecatr%C3%B3nica'
+        image: 'https://www.tecazuay.edu.ec/wp-content/uploads/2023/09/ingenieria-mecatronica-1.gif'
       },
       {
         name: 'Biotecnología',
         faculty: 'Facultad de Ciencias',
         description: 'Aplicaciones biológicas para la industria y la salud.',
-        image: 'https://via.placeholder.com/300x150?text=Biotecnolog%C3%ADa'
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hDSMGq3nV_VLkmepV96tycL_Kxin7Mn4lQ&s'
       },
       {
         name: 'Petroquímica',
         faculty: 'Facultad de Ingeniería Química',
         description: 'Procesos de refinación y transformación de hidrocarburos.',
-        image: 'https://via.placeholder.com/300x150?text=Petroqu%C3%ADmica'
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkp7JqEuZTy0B2EaWCK9YVwsnGvxaMaa0l5w&s'
       }
     ];
     this.open = false;

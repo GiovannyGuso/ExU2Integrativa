@@ -1,0 +1,29 @@
+{
+  "name": "exu2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000x\u0000U\u00002\u0000I\u0000n\u0000t\u0000e\u0000g\u0000r\u0000a\u0000t\u0000i\u0000v\u0000a\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovannyGuso/ExU2Integrativa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiovannyGuso/ExU2Integrativa/issues"
+  },
+  "homepage": "https://github.com/GiovannyGuso/ExU2Integrativa#readme",
+  "dependencies": {
+    "lit": "^3.3.1"
+  },
+  "devDependencies": {
+    "vite": "^7.0.4"
+  }
+}
